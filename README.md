@@ -1,2 +1,3 @@
 # Bouncing Squares
  
+The program in lab11.html currently shows a number of moving colorfull squares that bounce off the edges of the canvas. The canvas fills the entire content area of the web browser. The squares also respond to the mouse: If you left-click or left-click-and-drag on the canvas, all of the square will head towards the position of the mouse. If you shift-left-click, the data for the points is reinitialized, so they start back at the center. You can pause and restart the animation by hitting the space bar.
